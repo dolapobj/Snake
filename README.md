@@ -3,8 +3,8 @@
 
 ###Snake Game###
 
-This game was created as a part of my prep fall CS315 class .
-![Image of Yaktocat]
+This game was created as an independent final project after CS315.
+![Image of Snake]
 (http://i.imgur.com/ZFxuLjT.png)
 
 
